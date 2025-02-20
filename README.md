@@ -1,8 +1,10 @@
-Introduction
+# Introduction
+
+In a professional tone, we aim to underscore our primary objectives in this section. This will aid in providing a clear understanding of our intentions and goals, ensuring a coherent and effective path towards achieving them. 
 
 This project focuses on analyzing air passenger traffic using time series forecasting techniques, specifically the ARIMA (AutoRegressive Integrated Moving Average) model. The dataset used for this analysis is the famous "Air Passengers" dataset, which contains monthly totals of international airline passengers from 1949 to 1960.
 
-Objectives
+# Objectives
 
 1)Explore and visualize the time series data.
 
@@ -12,7 +14,7 @@ Objectives
 
 4)Evaluate the model's performance using metrics like Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE).
 
-Dataset
+# Dataset
 
 The dataset consists of:
 
@@ -22,7 +24,7 @@ The dataset consists of:
 
 3)Variable: Number of air passengers per month
 
-The general steps to implement an ARIMA model:
+# The general steps to implement an ARIMA model:
 
 1)Load and prepare data
 
@@ -36,10 +38,10 @@ The general steps to implement an ARIMA model:
 
 6)Calculate r²
 
-Results
+# Results
 
 The model successfully captures the trend and seasonality of the data and the forecasted values closely align with actual observations within an acceptable margin of error.
 
-Conclusion
+# Conclusion
 
 This project demonstrates the application of time series forecasting using ARIMA for air passenger data. The approach can be extended to other time series datasets for predictive analysis.
